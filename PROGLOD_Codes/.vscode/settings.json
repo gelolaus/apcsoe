@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "xlocale": "cpp",
+        "xlocmon": "cpp",
+        "ostream": "cpp"
+    }
+}
