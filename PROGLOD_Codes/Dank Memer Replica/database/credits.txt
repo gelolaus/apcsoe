@@ -1,5 +1,0 @@
-Credits to:
-
-Reading a .txt file line by line and checking if it contains required string:
-https://stackoverflow.com/questions/7868936/read-file-line-by-line-using-ifstream-in-c
-https://stackoverflow.com/questions/2340281/check-if-a-string-contains-a-string-in-c
